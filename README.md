@@ -1,3 +1,7 @@
+![C++](https://img.shields.io/badge/C%2B%2B-Visual%20C%2B%2B-blue)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # Taller de Funciones en Visual C++
 
 **Autor:** Henry Antonio Mendoza Puerta (HAMP)  
