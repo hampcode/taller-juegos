@@ -10,7 +10,7 @@
 
 ## Objetivo del Taller
 
-El propósito de este taller es reforzar el uso de funciones en C++ a través de ejercicios teórico-prácticos. El estudiante:
+El propósito de este taller es reforzar el uso de funciones en Visual C++ a través de ejercicios teórico-prácticos. El estudiante:
 
 * Comprende la diferencia entre paso por valor y paso por referencia.
 * Aprende a organizar la lógica de un programa en funciones.
