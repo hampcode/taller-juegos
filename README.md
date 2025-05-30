@@ -1,8 +1,8 @@
-![C++](https://img.shields.io/badge/C%2B%2B-Visual%20C%2B%2B-blue)
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # Taller de Funciones en Visual C++
+![Visual C++](https://img.shields.io/badge/C%2B%2B-Visual%20C%2B%2B-blue)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **Autor:** Henry Antonio Mendoza Puerta (HAMP)  
 **YouTube:** [https://www.youtube.com/hampcode](https://www.youtube.com/hampcode)  
