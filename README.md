@@ -28,6 +28,7 @@ El propósito de este taller es reforzar el uso de funciones en Visual C++ a tra
 ### Enunciado
 
 Analizar el comportamiento de una variable al ser pasada a una función por valor y por referencia.
+![Paso por valor vs referencia](https://i0.wp.com/somoshackersdelaprogramacion.es/wp-content/uploads/2022/05/java-reference-value.gif?resize=500%2C241&ssl=1)
 
 ### Código
 
